@@ -12,7 +12,7 @@ let package = Package(
           targets: ["Stencil"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/kylef/PathKit.git", from: Version(0, 8, 0)),
+    .package(url: "https://github.com/bannzai/PathKit.git", from: Version(0, 8, 1)),
   ],
   targets: [
       // Targets are the basic building blocks of a package. A target can define a module or a test suite.
