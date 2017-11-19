@@ -15,7 +15,7 @@ let package = Package(
     .package(url: "https://github.com/kylef/PathKit.git", from: Version(0, 8, 0)),
 
     // https://github.com/apple/swift-package-manager/pull/597
-    .package(url: "https://github.com/kylef/Spectre.git", from: Version(0, 7, 2)),
+    .package(url: "https://github.com/kylef/Spectre.git", from: Version(0, 8, 0)),
   ],
   targets: [
       // Targets are the basic building blocks of a package. A target can define a module or a test suite.
